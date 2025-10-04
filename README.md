@@ -1,2 +1,2 @@
-# Construction_Webproject
-construction website from the ground up using React, Laravel, MySQL, and Bootstrap.
+# Cake_Website
+This website from the ground up using HTML,CSS,JavaScript.
